@@ -130,6 +130,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <title>Home Page</title>
+      <h1 className="text-red-900">holaaaa</h1>
       <h1 style={headingStyles}>
         Congratulations
         <br />
