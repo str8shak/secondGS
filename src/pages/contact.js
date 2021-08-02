@@ -3,12 +3,12 @@ import { Link } from "gatsby"
 import Layout from "./layout"
 
 // markup
-const indexPage = () => {
+const Contact = () => {
   return (
-    <Layout namepage="home">
-        <h1>este es home</h1>
+    <Layout namepage="contact">
+        <h1>este es contact</h1>
     </Layout>
   )
 }
 
-export default indexPage
+export default Contact
